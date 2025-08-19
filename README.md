@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Harsha L  
 
-<!--
-**harsha-fs-dev/harsha-fs-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer** | Java | Reactjs | HTML | CSS | JS | MySQL
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me  
+- 💡 Passionate about building scalable and clean applications  
+- 📚 Currently pursuing MCA 
+- 🎯 Goal: Becoming strong in fundamentals and creating impactful projects
+  
+---
+
+## 📫 Connect with Me  
+- GitHub: [harsha-fs-dev](https://github.com/harsha-fs-dev)  
+- Email: lgharsha03@gmail.com 
